@@ -4,7 +4,7 @@ Frontend SuperMorpheus Community App Snippet
 Language:Javascript 
 Framework:React
 
-#Setup Instructions
+# Setup Instructions
 1.Install react app initial:
 ```bash
 npx create-react-app frontend
